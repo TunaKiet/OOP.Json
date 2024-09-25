@@ -1,0 +1,26 @@
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\Lab 10 - JSon.exe.config
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\Lab 10 - JSon.exe
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\Lab 10 - JSon.pdb
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Buffers.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Memory.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Numerics.Vectors.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Text.Json.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.ValueTuple.dll
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Buffers.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Memory.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Numerics.Vectors.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Text.Json.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kiệt\OOP\Lab 10 - JSon\bin\Debug\System.ValueTuple.xml
+D:\Kiệt\OOP\Lab 10 - JSon\obj\Debug\Lab 10 - JSon.csproj.AssemblyReference.cache
+D:\Kiệt\OOP\Lab 10 - JSon\obj\Debug\Lab 10 - JSon.csproj.CoreCompileInputs.cache
+D:\Kiệt\OOP\Lab 10 - JSon\obj\Debug\Lab 10 -.82F76D99.Up2Date
+D:\Kiệt\OOP\Lab 10 - JSon\obj\Debug\Lab 10 - JSon.exe
+D:\Kiệt\OOP\Lab 10 - JSon\obj\Debug\Lab 10 - JSon.pdb
